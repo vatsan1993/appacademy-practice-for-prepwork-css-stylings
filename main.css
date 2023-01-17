@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 35px;
+    font-family: Roboto;
+    padding: 10px;
+    margin: 0 10px;
+    font-weight: 900;
+    text-decoration: underline;
+    color: white;
+    background-color: rgb(110, 125, 110);
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 25px;
+    font-family: Roboto;
+    padding: 10px;
+    margin: 0 10px;
+    font-weight: 700;
+    color:  white;
+    background-color: rgb(110, 125, 110);
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: Roboto;
+    font-size: 10px;
+    padding: 10px;
+    margin: 0 10px;
+    color:white;
+    background-color: rgb(110, 125, 110);
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url("logo-emblem-black-1000.png");
+    background-color: blue;
+    height: 200px;
+    width: 200px;
 }
